@@ -6,10 +6,9 @@ library(dplyr)
 mechaCar <- read.csv(file='MechaCar_mpg.csv',check.names=F,stringsAsFactors = F)
 View(mechaCar)
 ?lm()
-lm(vehicle_length ~ vehicle_weight + spoiler_angle + ground_clearance + AWD + mpg,mechaCar)
+lm(mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_clearance + AWD, mechaCar)
 #Get the summary statistics
-summary(lm(vehicle_length ~ vehicle_weight + spoiler_angle + ground_clearance + AWD + mpg,mechaCar))
-
+summary(lm(mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_clearance + AWD, mechaCar))
 
 
 # Import and read Suspension_Coil as a table
