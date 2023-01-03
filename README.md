@@ -42,7 +42,7 @@ Below there is an image that shows the *lot_summary* table
 
 <img width="346" alt="4 1" src="https://user-images.githubusercontent.com/111388644/210286226-b6b53bad-ba15-4828-ba16-7244ae5a351a.png">
 
-•	Because the design specifications dictate that the variance of the suspension coils must not exceed 100 pounds per square inch (PSI), the current manufacturing data meets this requirement since the variance has a value of 62.29 pounds per square inch. In the other hand, only one of the lots (*Lot3*) does not meet this design specifications, since the variance is equal to 170.29 pounds per square inch. The other two lots (*Lot1* and *Lot2) have variances that are smaller than 100. 
+•	Because the design specifications dictate that the variance of the suspension coils must not exceed 100 pounds per square inch (PSI), the current manufacturing data meets this requirement since the variance has a value of 62.29 pounds per square inch. In the other hand, only one of the lots (*Lot3*) does not meet this design specifications, since the variance is equal to 170.29 pounds per square inch. The other two lots (*Lot1* and *Lot2*) have variances that are smaller than 100. 
 
 
 ## T-Test on Suspension Coils
