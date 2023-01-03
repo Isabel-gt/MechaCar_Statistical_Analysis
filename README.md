@@ -1,10 +1,11 @@
 # MechaCar_Statistical_Analysis
 
-##Overview of the Project
-The purpose of this project was to perform an analysis of the data of a bike service in New York City. The information was obtained from the web site: *https://ride.citibikenyc.com/system-data*. The date from which the data was extracted was August 2019.
+## Overview of the Project
+<p align="justify">The purpose of this project was to perform multiple linear regression analysis, collect summary statistics, and run t-tests in order to review the data of AutosRus´ newest prototype: The MechaCar. The objective is to give more insight to the manufacturing team to improve their progress.</p> 
+<p align="justify">Also, at the end of the analysis there is a design study made to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers.</p>
 
-<p align="justify">The analysis and the visualizations were created using Tableau.</p>
-<p align="justify">The objective was to analyze the data of the bike service in New York in order to implement the same service in another place called: Des Moines. For this it was necessary to review and graph the peak hours in which the service was used, the number of trips, among other visualizations.</p> 
+<p align="justify">The analysis was made using R.</p>
+
 
 ## Linear Regression to Predict MPG
 
